@@ -12,13 +12,15 @@ Ya saben usar git!
 
 ## Estudiante: Nombre estudiante
 
-Descripción
+Buenas, mi nombre es Luciano Perazzini. Estudio en la UNSAM la carrera de TPI, y además juego en el equipo de fútbol de la misma.
 
 Foto de mi persona:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
 
-Diente de Leon
+![WhatsApp Image 2023-08-15 at 20 14 59](https://github.com/algo1unsam/presentaciontp0-LuchoPerazzini/assets/142063685/dd0e65ea-b72c-4d62-aead-7e78b944b019)
+
+
+
 
 ------
 
